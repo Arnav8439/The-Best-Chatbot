@@ -1,0 +1,2 @@
+This Chatbot is trained using Recurral Neural Network and is trained on past two years of twitter Dataset.
+The Chatbot until now yeilds an accuracy of 60% when trained for 100 epochs. 
